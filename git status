@@ -1,0 +1,29 @@
+[33mcommit 403a5a20251c7553e6fd520d6abef4404eb52cc3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Solomon Tumbu <solomontumbu@gmail.com>
+Date:   Mon Jul 11 03:30:43 2022 +1000
+
+    changed heading in readme
+
+[33mcommit 2ed5b830dbd309cf9bf3b0bff93a7203aea99a7c[m
+Author: Solomon Tumbu <solomontumbu@gmail.com>
+Date:   Mon Jul 11 03:26:36 2022 +1000
+
+    added readme
+
+[33mcommit e3dd84e8b3141ae03786be526544c391ec4ad836[m
+Author: Solomon Tumbu <solomontumbu@gmail.com>
+Date:   Mon Jul 11 02:56:03 2022 +1000
+
+    some change
+
+[33mcommit a73c211d7b0d2591726f7c8ea8e68e1d61d86bcb[m
+Author: Solomon Tumbu <solomontumbu@gmail.com>
+Date:   Mon Jul 11 02:55:35 2022 +1000
+
+    some change
+
+[33mcommit 1bb72d624326d438f8e9834d60212d1f55ee20bc[m
+Author: Solomon Tumbu <solomontumbu@gmail.com>
+Date:   Mon Jul 11 02:08:35 2022 +1000
+
+    changes to app.js
